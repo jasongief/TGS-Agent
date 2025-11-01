@@ -1,0 +1,15 @@
+# 过滤 pretrained_weights 下的所有文件，但保留目录
+/pretrained_weights/*
+!/pretrained_weights/.gitkeep
+
+# 过滤 R2AVSBench 下的所有文件，但保留目录
+/R2AVSBench/*
+!/R2AVSBench/.gitkeep
+
+/results_real/epochs6_lr1e-4_bs4_gradacc8_lora_r8alpha16dropout0.05/*
+
+.DS_Store
+__pycache__
+
+# 过滤 tmp/ground_segment_scripts/Grounded-SAM-2/gdino_checkpoints 下的所有 .pth 文件
+/ground_segment_scripts/Grounded-SAM-2/gdino_checkpoints/*.pth
