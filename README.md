@@ -74,8 +74,10 @@ Download the necessary pre-trained backbones and put them in ```./pretrained_wei
 
 **LLM Weights:**
 
-- download [LLaMA-2-Chat-HF](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)
+download [LLaMA-2-Chat-HF](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)
+
 **Pretrained Multimodal Projector**
+
 - download pretrained audio projector: [audio pretrain checkpoint](https://huggingface.co/ahsgdxhs/Crab/blob/main/audio_pretrain.bin)
 - download pretrained visual projector: [visual pretrain checkpoint](https://huggingface.co/ahsgdxhs/Crab/blob/main/visual_pretrain.bin), 
 
