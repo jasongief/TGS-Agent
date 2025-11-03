@@ -5,7 +5,7 @@
 [![Dataset](https://img.shields.io/badge/Dataset-Download-yellow)](https://drive.google.com/drive/folders/1Qz7MxBs7IpxgcTH8CaUsU3i9d366gRhM)
 [![HF_checkpoint](https://img.shields.io/badge/🤗-TGS_Model-9C276A.svg)](https://huggingface.co/Jinxing1/TGS-Agent/tree/main)
 
-Jinxing Zhou, Yanghao Zhou, Mingfei Han, Tong Wang, Xiaojun Chang, Hisham Cholakkal, Rao Muhammad Anwer
+
 ## 📰 News
 
 🔥**2025.11.01**: Data, Code, and Checkpoints are released!
