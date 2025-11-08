@@ -8,7 +8,7 @@
 
 ## 📰 News
 
-🔥**2025.11.08**: Our paper got accepted to **AAAI 2026**! Thanks for all co-authors and the anonymous reviewers🎉🎉🎉
+🔥**2025.11.08**: Our paper got accepted to **AAAI 2026**! Thanks to all co-authors and the anonymous reviewers🎉🎉
 
 🔥**2025.11.01**: Data, Code, and Checkpoints are released!
 
